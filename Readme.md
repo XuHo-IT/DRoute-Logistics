@@ -31,7 +31,7 @@ Hệ thống gồm 4 dashboard chính:
 
 ### 3.1. Overview Dashboard (Executive View)
 
-![Overview Dashboard](Visualize Data_1.png)
+![Overview Dashboard](./Visualize Data_1.png)
 
 #### Core KPI Monitoring
 
@@ -76,7 +76,7 @@ Bao gồm:
 
 ### 3.3. Drivers Overview Dashboard
 
-![Drivers Overview Dashboard](Visualize Data_2.png)
+![Drivers Overview Dashboard](./Visualize Data_2.png)
 
 #### Phân tích:
 
