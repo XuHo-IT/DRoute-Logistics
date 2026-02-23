@@ -1,9 +1,9 @@
-# SWIFTROUTE LOGISTICS DASHBOARD
+# DROUTE LOGISTICS DASHBOARD
 ## Logistics Performance & Operations Analytics Platform
 
 ## 1. Project Overview
 
-SwiftRoute Logistics Dashboard là hệ thống phân tích dữ liệu vận hành logistics được xây dựng nhằm cung cấp góc nhìn 360° về hiệu suất giao hàng, hiệu quả trung tâm phân phối (Hub), năng lực tài xế (Driver), và tình trạng đội xe (Vehicle Fleet).
+DRoute Logistics Dashboard là hệ thống phân tích dữ liệu vận hành logistics được xây dựng nhằm cung cấp góc nhìn 360° về hiệu suất giao hàng, hiệu quả trung tâm phân phối (Hub), năng lực tài xế (Driver), và tình trạng đội xe (Vehicle Fleet).
 
 ### Chức năng chính
 
