@@ -167,13 +167,3 @@ Khi triển khai thực tế, dashboard có thể giúp:
 - Drill-through Driver Profile
 - Conditional formatting cho performance alerts
 
-## 8. Project Maturity Level
-
-Đây là dashboard nâng cao thể hiện khả năng về:
-
-- Logistics domain knowledge
-- Operations management
-- KPI design
-- Business thinking
-- Data storytelling
-- Decision-support analytics
