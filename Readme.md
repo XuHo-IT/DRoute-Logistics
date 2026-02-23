@@ -31,6 +31,8 @@ Hệ thống gồm 4 dashboard chính:
 
 ### 3.1. Overview Dashboard (Executive View)
 
+![Overview Dashboard](Visualize Data_1.png)
+
 #### Core KPI Monitoring
 
 - Total Orders (Current vs Previous Month)
@@ -73,6 +75,8 @@ Bao gồm:
 **Giá trị:** Giúp tối ưu mạng lưới phân phối.
 
 ### 3.3. Drivers Overview Dashboard
+
+![Drivers Overview Dashboard](Visualize Data_2.png)
 
 #### Phân tích:
 
